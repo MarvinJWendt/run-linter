@@ -1,6 +1,6 @@
-name: 'Node 12 Template Action'
-description: 'Get started with Node actions'
-author: 'GitHub'
+name: 'Run code linter'
+description: 'Automatically lints your code'
+author: 'MarvinJWendt'
 inputs:
   myInput:
     description: 'Input to use'
